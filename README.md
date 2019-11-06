@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
 [image4]: ./output_images/warped_straight_lines.jpg "Warp Example"
 [image5]: ./output_images/color_fit_lines.jpg "Fit Visual"
 [image6]: ./output_images/example_output.jpg "Output"
-[video1]: ./output_images/challenge1.mp4 "Video"
+[video]: ./output_images/challenge1.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
@@ -105,9 +105,7 @@ The whole image pipeline is in cell 17.  Here is an example of my result on a te
 
 ### Pipeline (video)
 
-#### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
-
-[video1]
+Here is a link to my [video]
 
 ---
 
