@@ -1,8 +1,8 @@
 ## README/Writeup
+![alt text][image6]
 ---
 
 **Advanced Lane Finding Project**
-![alt text][image6]
 
 The goals / steps of this project are the following:
 
